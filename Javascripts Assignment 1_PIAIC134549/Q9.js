@@ -1,0 +1,14 @@
+var a=(3);
+var b=(5);
+var c=(a+b);
+var d=(a-b);
+var e=(a*b);
+var f=(a/b);
+var g=(a%b);
+document.write(d);
+document.write("<br>");
+document.write(e);
+document.write("<br>");
+document.write(f);
+document.write("<br>");
+document.write(g);
